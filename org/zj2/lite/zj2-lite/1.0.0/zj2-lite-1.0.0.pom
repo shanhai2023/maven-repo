@@ -239,6 +239,17 @@
         </configuration>
       </plugin>
       <plugin>
+        <artifactId>maven-source-plugin</artifactId>
+        <executions>
+          <execution>
+            <phase>package</phase>
+            <goals>
+              <goal>jar-no-fork</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
         <artifactId>maven-deploy-plugin</artifactId>
         <configuration>
           <altDeploymentRepository>internal.repo::default::file://${deploy.path}</altDeploymentRepository>
