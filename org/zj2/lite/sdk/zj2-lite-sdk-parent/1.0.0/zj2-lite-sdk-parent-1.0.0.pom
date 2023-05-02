@@ -21,5 +21,6 @@
     <module>zj2-sdk-wx</module>
     <module>zj2-sdk-net</module>
     <module>zj2-sdk-async-task</module>
+    <module>zj2-sdk-oss</module>
   </modules>
 </project>
