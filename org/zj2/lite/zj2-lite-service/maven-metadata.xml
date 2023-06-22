@@ -3,10 +3,11 @@
   <groupId>org.zj2.lite</groupId>
   <artifactId>zj2-lite-service</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.1</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20230502062959</lastUpdated>
+    <lastUpdated>20230622065532</lastUpdated>
   </versioning>
 </metadata>
